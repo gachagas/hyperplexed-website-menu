@@ -2,7 +2,7 @@
 
 This is an app bootstrapped according to the [init.tips](https://init.tips) stack, also known as the T3-Stack.
 
-## Why are there `.js` files in here?
+## demo + todos
 
 NextJS / Tailwind implementation of [This homepage](https://www.youtube.com/watch?v=NUeCNvYY_x4&ab_channel=Hyperplexed)
 
